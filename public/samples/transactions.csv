@@ -1,0 +1,5 @@
+date,description,amount,transaction_type,reference
+2026-11-20,Example product sale,1250000,CREDIT,DEMO-IMPORT-001
+2026-11-21,Example office supplies,175000,DEBIT,DEMO-IMPORT-002
+2026-11-22,Example service sale,850000,CREDIT,DEMO-IMPORT-003
+2026-11-23,Example workspace rent,600000,DEBIT,DEMO-IMPORT-004

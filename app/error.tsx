@@ -1,0 +1,2 @@
+"use client"
+export default function ErrorPage({ reset }: { reset: () => void }) { return <main className="mx-auto max-w-md space-y-4 p-10"><h1 className="text-xl font-semibold">Halaman belum bisa dimuat</h1><p className="text-sm text-slate-500">Coba kembali. Jika berlanjut, periksa terminal aplikasi lokal.</p><button className="rounded-lg bg-blue-600 px-4 py-2 text-white" onClick={reset}>Coba lagi</button></main> }
